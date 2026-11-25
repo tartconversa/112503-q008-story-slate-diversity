@@ -1,0 +1,9 @@
+fact,left_beat,right_beat,property,evidence,known_on
+R1,AB1,BB1,event,confirmed,2026-07-05
+R2,AB2,BB2,ending,distinct,2026-07-07
+R3,AB1,DB1,event,confirmed,2026-08-05
+R4,AB2,DB2,ending,unknown,2026-08-05
+R5,AB2,DC2,ending,confirmed,2026-08-16
+R6,BB1,EB1,event,possible,2026-08-08
+R7,AB1,EB1,choice,distinct,2026-08-09
+R8,EB2,DC2,ending,distinct,2026-08-16

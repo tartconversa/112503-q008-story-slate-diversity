@@ -1,0 +1,5 @@
+slot,channel,region,day,units,limited_kind
+S1,P1,north,2026-09-05,1,first_run
+S2,P2,east,2026-09-05,1,first_run
+S3,P1,north,2026-09-12,1,first_run
+S4,P3,west,2026-09-06,1,first_run

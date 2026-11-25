@@ -1,0 +1,6 @@
+commitment,work,edition,channel,slot,exclusive_to,state,at
+K1,W3,D1,P1,S1,P1,announced,2026-08-07
+K2,W4,E1,P1,S1,,candidate,2026-08-09
+K3,W4,E1,P2,S2,,candidate,2026-08-10
+K4,W4,E1,P3,S4,,candidate,2026-08-11
+K5,W3,D2,P1,S3,P1,candidate,2026-08-17

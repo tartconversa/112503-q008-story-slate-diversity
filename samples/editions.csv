@@ -1,0 +1,8 @@
+edition,work,rev,predecessor,submitted,ready_on,kind
+A1,W1,r1,,2026-05-01,2026-05-22,original
+A2,W1,r2,A1,2026-06-01,2026-06-21,cut
+B1,W2,r1,,2026-07-03,2026-07-24,licensed_adaptation
+D1,W3,r1,,2026-08-02,2026-09-01,original
+D2,W3,r2,D1,2026-08-15,2026-09-04,original
+E1,W4,r1,,2026-08-04,2026-09-04,original
+F1,W5,r1,,2026-06-01,2026-06-16,original

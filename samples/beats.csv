@@ -1,0 +1,15 @@
+edition,beat,position,character,choice,event,ending
+A1,AB1,1,detective,trust,letter,
+A1,AB2,2,detective,return,hearing,return_home
+A2,A21,1,detective,trust,letter,
+A2,A22,2,detective,return,hearing,return_home
+B1,BB1,1,intern,trust,letter,
+B1,BB2,2,intern,stay,hearing,keep_job
+D1,DB1,1,student,trust,letter,
+D1,DB2,2,student,,hearing,
+D2,DC1,1,student,trust,letter,
+D2,DC2,2,student,return,hearing,return_home
+E1,EB1,1,witness,protect,letter,
+E1,EB2,2,witness,leave,confrontation,travel
+F1,FB1,1,sibling,refuse,illness,
+F1,FB2,2,sibling,stay,reconciliation,keep_job

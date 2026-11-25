@@ -1,0 +1,4 @@
+record,edition,source,field,authorization,confirmed_on
+L1,A2,A1,cut,owner,2026-06-01
+L2,B1,A1,world,licensed,2026-07-01
+L3,D2,D1,revision,owner,2026-08-15
